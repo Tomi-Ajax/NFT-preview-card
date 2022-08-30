@@ -45,8 +45,8 @@ Users should be able to:
 
 
 ### What I learned
--I learnt how to do the overlay trick using CSS
--I also improved my usage of CSS flexbox 
+- I learnt how to do the overlay trick using CSS
+- I also improved my usage of CSS flexbox 
 
 
 ## Author
